@@ -1,0 +1,5 @@
+﻿# Client ID for Web application
+-----------------------------------------
+URL: https://console.cloud.google.com/auth/clients/750780357606-v3pfck200hpujidbi56jpvr9bm6c577l.apps.googleusercontent.com?project=prefab-setting-479515-j9
+Client ID: 750780357606-v3pfck200hpujidbi56jpvr9bm6c577l.apps.googleusercontent.com
+register email: shawshaw3@gmail.com

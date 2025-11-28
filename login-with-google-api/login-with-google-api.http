@@ -1,0 +1,6 @@
+@login_with_google_api_HostAddress = http://localhost:5062
+
+GET {{login_with_google_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
